@@ -1,0 +1,14 @@
+C:\Users\Selman\Desktop\JED\C#\HomeTasks\HomeTask3 - BookLibrary\BookLibrary\bin\Debug\net8.0\BookLibrary.exe
+C:\Users\Selman\Desktop\JED\C#\HomeTasks\HomeTask3 - BookLibrary\BookLibrary\bin\Debug\net8.0\BookLibrary.deps.json
+C:\Users\Selman\Desktop\JED\C#\HomeTasks\HomeTask3 - BookLibrary\BookLibrary\bin\Debug\net8.0\BookLibrary.runtimeconfig.json
+C:\Users\Selman\Desktop\JED\C#\HomeTasks\HomeTask3 - BookLibrary\BookLibrary\bin\Debug\net8.0\BookLibrary.dll
+C:\Users\Selman\Desktop\JED\C#\HomeTasks\HomeTask3 - BookLibrary\BookLibrary\bin\Debug\net8.0\BookLibrary.pdb
+C:\Users\Selman\Desktop\JED\C#\HomeTasks\HomeTask3 - BookLibrary\BookLibrary\obj\Debug\net8.0\BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Selman\Desktop\JED\C#\HomeTasks\HomeTask3 - BookLibrary\BookLibrary\obj\Debug\net8.0\BookLibrary.AssemblyInfoInputs.cache
+C:\Users\Selman\Desktop\JED\C#\HomeTasks\HomeTask3 - BookLibrary\BookLibrary\obj\Debug\net8.0\BookLibrary.AssemblyInfo.cs
+C:\Users\Selman\Desktop\JED\C#\HomeTasks\HomeTask3 - BookLibrary\BookLibrary\obj\Debug\net8.0\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Selman\Desktop\JED\C#\HomeTasks\HomeTask3 - BookLibrary\BookLibrary\obj\Debug\net8.0\BookLibrary.dll
+C:\Users\Selman\Desktop\JED\C#\HomeTasks\HomeTask3 - BookLibrary\BookLibrary\obj\Debug\net8.0\refint\BookLibrary.dll
+C:\Users\Selman\Desktop\JED\C#\HomeTasks\HomeTask3 - BookLibrary\BookLibrary\obj\Debug\net8.0\BookLibrary.pdb
+C:\Users\Selman\Desktop\JED\C#\HomeTasks\HomeTask3 - BookLibrary\BookLibrary\obj\Debug\net8.0\BookLibrary.genruntimeconfig.cache
+C:\Users\Selman\Desktop\JED\C#\HomeTasks\HomeTask3 - BookLibrary\BookLibrary\obj\Debug\net8.0\ref\BookLibrary.dll
